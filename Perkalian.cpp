@@ -8,11 +8,11 @@ int main ()
     int a, b, c ;
 
     cout << "Perkalian" << endl;
-    //Input Panjang
+    //Input angka pertama
     cout << "Masukkan Angka Pertama:";
     cin >> a;
 
-    //Input Lebar
+    //Input angka kedua
     cout << "Masukkan Angka Kedua:";
     cin >> b;
 
